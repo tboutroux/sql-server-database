@@ -130,4 +130,3 @@ ORDER BY [nb_factures] DESC;
 -- WHERE [facture].[date_paiement] IS NULL;
 
 -- Calculer les factures en retard de paiement
-
